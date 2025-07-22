@@ -1,0 +1,12 @@
+fastapi
+redis
+types-redis
+uvicorn
+pydantic
+httpx
+pymongo
+passlib[bcrypt]
+python-jose
+celery
+dotenv
+qrcode[pil]
